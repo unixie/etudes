@@ -1,0 +1,3 @@
+add_subdirectory(directory)
+add_subdirectory(arithmetic)
+add_subdirectory(exponents)
